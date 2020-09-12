@@ -82,8 +82,6 @@ public class Work1 {
                 break;
         }
         System.out.println("Год " + result);
-        System.out.println(animal);
-        System.out.println(color);
 
     }
 }
